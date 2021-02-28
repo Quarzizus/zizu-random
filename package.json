@@ -1,0 +1,16 @@
+{
+  "name": "zizu-random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "quarzizus <angelzizu06@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "zizu-random": "./src/bin/global.js"
+  },
+  "preferGlobal": true
+}
