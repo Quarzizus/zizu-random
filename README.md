@@ -1,6 +1,6 @@
 # npm zizu-random
 
-My firts publication in npm, thanks Oscar, you are the best teacher
+My firts publication in npm
 
 ### Install
 
@@ -11,3 +11,6 @@ My firts publication in npm, thanks Oscar, you are the best teacher
 This program throw names of random form. 
 
 >zizu-random
+
+### Contribution
+[Curso de gestion y dependencias de paquetes npm](https://platzi.com/clases/npm/)
